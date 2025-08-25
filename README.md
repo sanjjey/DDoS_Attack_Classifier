@@ -3,23 +3,23 @@
 It uses SMOTE to handle class imbalance, extracts important features, and provides evaluation metrics including confusion matrices and feature importance visualization.
 # 📌 Project Structure
 
-## RandomForest_DDoS_Attack_Classifer.ipynb → Main Jupyter Notebook containing data preprocessing, training, and evaluation.
+### RandomForest_DDoS_Attack_Classifer.ipynb → Main Jupyter Notebook containing data preprocessing, training, and evaluation.
 
-## Dataset → Loaded via KaggleHub (requires API access).
+### Dataset → Loaded via KaggleHub (requires API access).
 
-## Outputs → Confusion matrix, classification reports, and feature importance plots.
+### Outputs → Confusion matrix, classification reports, and feature importance plots.
 
 # 🧠 Model
 
-## Algorithm: Random Forest Classifier
+### Algorithm: Random Forest Classifier
 
-## Preprocessing:
+### Preprocessing:
 
 ### Train-test split.
 
-## SMOTE for balancing classes.
+### SMOTE for balancing classes.
 
-## Evaluation Metrics:
+### Evaluation Metrics:
 
 ### Confusion Matrix
 
@@ -29,8 +29,8 @@ It uses SMOTE to handle class imbalance, extracts important features, and provid
 
 # 📈 Results
 
-## Model achieves high accuracy of 99.6% in distinguishing normal vs DDoS traffic.
+### Model achieves high accuracy of 99.6% in distinguishing normal vs DDoS traffic.
 
-## Confusion Matrix highlights prediction distribution.
+### Confusion Matrix highlights prediction distribution.
 
-##Feature importance plot shows top features contributing to classification.
+### Feature importance plot shows top features contributing to classification.
