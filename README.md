@@ -1,6 +1,6 @@
 # Random Forest DDoS Attack Classifier
 ### This project implements a Random Forest-based machine learning model to detect and classify DDoS (Distributed Denial of Service) attacks using network traffic data.
-It uses SMOTE to handle class imbalance, extracts important features, and provides evaluation metrics including confusion matrices and feature importance visualization.
+### It uses SMOTE to handle class imbalance, extracts important features, and provides evaluation metrics including confusion matrices and feature importance visualization.
 # 📌 Project Structure
 
 ### RandomForest_DDoS_Attack_Classifer.ipynb → Main Jupyter Notebook containing data preprocessing, training, and evaluation.
